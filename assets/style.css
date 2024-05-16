@@ -5,7 +5,13 @@ html,body {
     padding: 0;
 }
 
-
+.menu-bar .menu-active {
+    font-family: roboto-black;
+}
+ul {
+    list-style: none;
+    
+}
 
 
 .roboto-thin {
