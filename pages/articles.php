@@ -13,7 +13,7 @@
     require_once '../includes/menu.php';
 
     ?>
-
+    <a href="/blog/pages/newBlog.php"> creer un nouvel article</a>
 </body>
 
 </html>
